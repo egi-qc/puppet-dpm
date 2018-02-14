@@ -35,6 +35,7 @@
     },
     { 
       "name": "puppetlabs-stdlib",
+      "version_requirement": ""
     }
   ],
   "description": "A wrapper for the DPM modules",
